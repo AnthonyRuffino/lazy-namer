@@ -1,0 +1,24 @@
+{
+  "name": "lazy-namer",
+  "version": "1.0.0",
+  "description": "Utility to generate random names à la docker containers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyRuffino/lazy-namer.git"
+  },
+  "keywords": [
+    "random-name",
+    "wozniak",
+    "lazy"
+  ],
+  "author": "Anthony Ruffino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyRuffino/lazy-namer/issues"
+  },
+  "homepage": "https://github.com/AnthonyRuffino/lazy-namer#readme"
+}
