@@ -1,6 +1,6 @@
 {
   "name": "lazy-namer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to generate random names à la docker containers",
   "main": "index.js",
   "scripts": {
