@@ -477,7 +477,7 @@ LazyNamer.getName = function (parts) {
 
 
 try {
-    exports.LazyNamer = LazyNamer
+    module.exports = LazyNamer
 }
 catch(err) {
     console.log('Could ot load exports in the current context', err);
